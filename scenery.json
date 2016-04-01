@@ -1,0 +1,10 @@
+﻿{
+    "ship": {
+		"category": "Props",
+		"model": "ship",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+}

@@ -1,0 +1,334 @@
+[16-04-01 08:50:08] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401085008942.dll...
+[16-04-01 08:50:08] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 08:50:08] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 08:50:08] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 08:50:08] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 08:50:08] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 08:50:08] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 08:50:08] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 08:50:08] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 08:50:08] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 08:50:08] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 08:50:08] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 08:50:32] Info: Loaded build-160401085008942, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 08:50:32] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 08:54:54] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401085454103.dll...
+[16-04-01 08:54:54] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 08:54:54] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 08:54:54] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 08:54:54] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 08:54:54] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 08:54:54] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 08:54:54] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 08:54:54] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 08:54:54] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 08:54:54] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 08:54:54] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 08:55:38] Info: Loaded build-160401085454103, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 08:55:38] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 08:59:39] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401085939467.dll...
+[16-04-01 08:59:39] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 08:59:39] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 08:59:39] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 08:59:39] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 08:59:39] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 08:59:39] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 08:59:39] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 08:59:39] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 08:59:39] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 08:59:39] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 08:59:39] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 09:00:04] Info: Loaded build-160401085939467, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 09:00:04] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 09:03:56] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401090356564.dll...
+[16-04-01 09:03:56] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 09:03:56] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 09:03:56] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 09:03:56] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 09:03:56] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 09:03:56] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 09:03:56] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 09:03:56] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 09:03:56] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 09:03:56] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 09:03:56] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 09:04:20] Info: Loaded build-160401090356564, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 09:04:20] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 09:07:43] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401090743211.dll...
+[16-04-01 09:07:43] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 09:07:43] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 09:07:43] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 09:07:43] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 09:07:43] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 09:07:43] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 09:07:43] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 09:07:43] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 09:07:43] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 09:07:43] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 09:07:43] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 09:08:08] Info: Loaded build-160401090743211, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 09:08:08] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 09:16:37] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401091637506.dll...
+[16-04-01 09:16:37] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 09:16:37] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 09:16:37] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 09:16:37] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 09:16:37] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 09:16:37] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 09:16:37] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 09:16:37] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 09:16:37] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 09:16:37] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 09:16:37] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 09:17:08] Info: Loaded build-160401091637506, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 09:17:08] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 09:20:15] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401092015907.dll...
+[16-04-01 09:20:15] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 09:20:15] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 09:20:15] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 09:20:15] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 09:20:15] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 09:20:15] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 09:20:15] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 09:20:15] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 09:20:15] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 09:20:15] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 09:20:15] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 09:20:41] Info: Loaded build-160401092015907, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 09:20:41] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 09:23:17] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401092317845.dll...
+[16-04-01 09:23:17] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 09:23:17] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 09:23:17] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 09:23:17] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 09:23:17] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 09:23:17] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 09:23:17] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 09:23:17] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 09:23:17] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 09:23:17] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 09:23:17] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 09:23:56] Info: Loaded build-160401092317845, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 09:23:56] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 09:29:26] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401092926835.dll...
+[16-04-01 09:29:26] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 09:29:26] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 09:29:26] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 09:29:26] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 09:29:26] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 09:29:26] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 09:29:26] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 09:29:26] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 09:29:26] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 09:29:26] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 09:29:26] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 09:30:11] Info: Loaded build-160401092926835, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 09:30:11] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 11:21:15] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401112115222.dll...
+[16-04-01 11:21:15] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 11:21:15] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 11:21:15] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 11:21:15] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 11:21:15] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 11:21:15] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 11:21:15] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 11:21:15] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 11:21:15] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 11:21:15] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 11:21:15] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 11:21:42] Info: Loaded build-160401112115222, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 11:21:42] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 11:29:57] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401112957693.dll...
+[16-04-01 11:29:57] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 11:29:57] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 11:29:57] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 11:29:57] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 11:29:57] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 11:29:57] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 11:29:57] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 11:29:57] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 11:29:57] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 11:29:57] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 11:29:57] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 11:30:28] Info: Loaded build-160401112957693, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 11:30:28] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 11:47:32] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401114732841.dll...
+[16-04-01 11:47:32] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 11:47:32] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 11:47:32] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 11:47:32] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 11:47:32] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 11:47:32] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 11:47:32] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 11:47:32] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 11:47:32] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 11:47:32] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 11:47:32] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 11:47:58] Info: Loaded build-160401114732841, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 11:47:58] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 11:51:50] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401115150576.dll...
+[16-04-01 11:51:50] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 11:51:50] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 11:51:50] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 11:51:50] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 11:51:50] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 11:51:50] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 11:51:50] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 11:51:50] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 11:51:50] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 11:51:50] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 11:51:50] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 11:52:14] Info: Loaded build-160401115150576, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 11:52:14] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 12:11:37] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401121137473.dll...
+[16-04-01 12:11:37] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 12:11:37] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 12:11:37] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 12:11:37] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 12:11:37] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 12:11:37] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 12:11:37] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 12:11:37] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 12:11:37] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 12:11:37] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 12:11:37] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 12:12:05] Info: Loaded build-160401121137473, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 12:12:05] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 12:37:52] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401123752822.dll...
+[16-04-01 12:37:52] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 12:37:52] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 12:37:52] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 12:37:52] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 12:37:52] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 12:37:52] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 12:37:52] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 12:37:52] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 12:37:52] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 12:37:52] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 12:37:52] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 12:38:18] Info: Loaded build-160401123752822, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 12:38:18] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 16:42:31] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401164231875.dll...
+[16-04-01 16:42:31] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 16:42:31] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 16:42:31] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 16:42:31] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 16:42:31] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 16:42:31] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 16:42:31] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 16:42:31] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 16:42:31] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 16:42:31] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 16:42:31] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 16:44:58] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401164458734.dll...
+[16-04-01 16:44:58] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 16:44:58] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 16:44:58] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 16:44:58] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 16:44:58] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 16:44:58] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 16:44:58] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 16:44:58] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 16:44:58] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 16:44:58] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 16:44:58] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 16:45:29] Info: Loaded build-160401164458734, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 16:45:29] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 16:57:08] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401165708702.dll...
+[16-04-01 16:57:08] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 16:57:08] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 16:57:08] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 16:57:08] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 16:57:08] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 16:57:08] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 16:57:08] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 16:57:08] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 16:57:08] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 16:57:08] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 16:57:08] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 16:57:36] Info: Loaded build-160401165708702, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 16:57:36] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 17:02:28] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401170228602.dll...
+[16-04-01 17:02:28] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 17:02:28] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 17:02:28] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 17:02:28] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 17:02:28] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 17:02:28] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 17:02:28] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 17:02:28] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 17:02:28] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 17:02:28] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 17:02:28] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 17:02:54] Info: Loaded build-160401170228602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 17:02:54] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 17:10:17] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401171017707.dll...
+[16-04-01 17:10:17] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 17:10:17] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 17:10:17] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 17:10:17] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 17:10:17] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 17:10:17] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 17:10:17] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 17:10:17] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 17:10:17] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 17:10:17] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 17:10:17] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 17:10:53] Info: Loaded build-160401171017707, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 17:10:53] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 17:17:01] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401171701721.dll...
+[16-04-01 17:17:01] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 17:17:01] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 17:17:01] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 17:17:01] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 17:17:01] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 17:17:01] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 17:17:01] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 17:17:01] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 17:17:01] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 17:17:01] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 17:17:01] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 17:17:28] Info: Loaded build-160401171701721, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 17:17:28] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 17:25:49] Info: Compiling Luukloklol's-scenery-pack to bin/build-160401172549677.dll...
+[16-04-01 17:25:49] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 17:25:49] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 17:25:49] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 17:25:49] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 17:25:49] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 17:25:49] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 17:25:49] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 17:25:49] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 17:25:49] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 17:25:49] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 17:25:49] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 17:26:18] Info: Loaded build-160401172549677, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 17:26:18] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 17:37:36] Info: Compiling Luukloklol's-ship to bin/build-160401173736127.dll...
+[16-04-01 17:37:36] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 17:37:36] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 17:37:36] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 17:37:36] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 17:37:36] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 17:37:36] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 17:37:36] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 17:37:36] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 17:37:36] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 17:37:36] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 17:37:36] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 17:38:03] Info: Loaded build-160401173736127, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 17:38:03] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-04-01 17:40:05] Info: Compiling Luukloklol's-ship to bin/build-160401174005772.dll...
+[16-04-01 17:40:05] Info: Compiling from `Custom Scenery.csproj`.
+[16-04-01 17:40:05] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-04-01 17:40:05] Info: Resolved assembly reference `System` to `System.dll`
+[16-04-01 17:40:05] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-04-01 17:40:05] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-04-01 17:40:05] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-04-01 17:40:05] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-04-01 17:40:05] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-04-01 17:40:05] Info: Resolved assembly reference `UnityEngine` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-04-01 17:40:05] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\Wout\.VirtualBox\Desktop\lukas games\parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-04-01 17:40:05] Info: Source files: CustomScenery\Decorators\GridDecorator.cs, CustomScenery\Decorators\GridSubdivisionDecorator.cs, CustomScenery\Decorators\HeightDecorator.cs, CustomScenery\Decorators\IDecorator.cs, CustomScenery\Decorators\NameDecorator.cs, CustomScenery\Decorators\PriceDecorator.cs, CustomScenery\Decorators\RecolorableDecorator.cs, CustomScenery\Decorators\SnapToCenterDecorator.cs, CustomScenery\Decorators\TypeDecorator.cs, CustomScenery\Decorators\Type\CategoryDecorator.cs, CustomScenery\Decorators\Type\FenceDecorator.cs, CustomScenery\Decorators\Type\LampDecorator.cs, CustomScenery\Decorators\Type\SeatingAutoDecorator.cs, CustomScenery\Decorators\Type\DecoDecorator.cs, CustomScenery\Decorators\Type\SeatingDecorator.cs, CustomScenery\Decorators\Type\TrashBinDecorator.cs, CustomScenery\Main.cs, CustomScenery\SceneryLoader.cs from `C:\Users\Wout\Documents\Parkitect\pnmods\eg.Lukloklol's-scenery-pack`.
+[16-04-01 17:40:33] Info: Loaded build-160401174005772, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-04-01 17:40:33] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
